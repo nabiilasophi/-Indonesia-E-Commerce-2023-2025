@@ -12,9 +12,6 @@ Dataset yang digunakan berasal dari Kaggle: [Indonesia E-Commerce Sales and Ship
 ---
 
 ## Kesimpulan dan Analisis Perspektif TIK dalam Pembangunan
-
-## Kesimpulan dan Analisis Perspektif TIK dalam Pembangunan
-
 Berdasarkan Exploratory Data Analysis (EDA) yang telah dilakukan terhadap data transaksi E-Commerce Indonesia (2023–2025), berikut adalah kesimpulan strategis yang dikaitkan dengan aspek Teknologi Informasi dan Komunikasi (TIK) dalam Pembangunan:
 
 ### 1. Kesenjangan Digital (*Digital Divide*) dan Infrastruktur
